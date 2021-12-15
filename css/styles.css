@@ -60,4 +60,7 @@ p{
   .skillimages{
     width: 50%;
   }
+  .navbar-brand{
+  font-size: 3rem;
+}
 }
