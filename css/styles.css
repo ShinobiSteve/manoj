@@ -66,6 +66,9 @@ p{
   .navbar-toggler{
     padding: 2% 5%;
   }
+  .nav-link{
+    font-size: 2rem;
+  }
   .skillinfo{
     font-size: 3rem;
     padding-bottom: 3%;
