@@ -58,9 +58,11 @@ p{
     padding:6% 0;
   }
   .skillimages{
-    width: 50%;
+    width: 40%;
   }
   .skillinfo{
-    font-weight: bold;
+/*     font-weight: bold; */
+    font-size: 3rem;
+    padding-bottom: 3%;
   }
 }
