@@ -69,6 +69,9 @@ p{
   .nav-link{
     font-size: 2rem;
   }
+  .navbar-brand{
+    font-size: 0;
+  }
   .skillinfo{
     font-size: 3rem;
     padding-bottom: 3%;
