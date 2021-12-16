@@ -60,8 +60,13 @@ p{
   .skillimages{
     width: 40%;
   }
+   .navbar-toggler-icon{
+      font-size: 3rem;
+  }
+  .navbar-toggler{
+    padding: 2% 5%;
+  }
   .skillinfo{
-/*     font-weight: bold; */
     font-size: 3rem;
     padding-bottom: 3%;
   }
