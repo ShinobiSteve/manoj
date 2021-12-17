@@ -32,6 +32,9 @@ td{
   h3{
     line-height: 1.5;
   }
+  #footer{
+    margin-top: 20%;
+  }
 }
 
 .projects{
