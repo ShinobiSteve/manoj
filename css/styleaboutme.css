@@ -36,7 +36,10 @@ td{
     margin-top: 20%;
   }
 }
-
+.proj{
+  margin-top: 5rem;
+  margin-bottom: 2rem;
+}
 .projects{
   text-align: left;
   line-height: 2.5;
