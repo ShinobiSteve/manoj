@@ -25,7 +25,20 @@ td{
 .slideimg{
   width: 30%;
 }
+@media (max-width: 1100px){
+  .slideimg{
+    width: 50%;
+  }
+  h3{
+    line-height: 1.5;
+  }
+}
 
+.projects{
+  text-align: left;
+  line-height: 2.5;
+  margin-top: 5rem;
+}
 
 
 
