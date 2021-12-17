@@ -35,6 +35,19 @@ td{
   #footer{
     margin-top: 40%;
   }
+  .navbar-toggler-icon{
+      font-size: 3rem;
+  }
+  .navbar-toggler{
+    padding: 2% 5%;
+  }
+  .nav-link{
+    font-size: 2rem;
+  }
+  .navbar-brand{
+    color: #FBF46D;
+    font-size: 0;
+  }
 }
 .proj{
   margin-top: 5rem;
