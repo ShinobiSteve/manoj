@@ -1,0 +1,41 @@
+body{
+  background-color: #FBF46D;
+  text-align: center;
+}
+.carousel-item h3{
+  font-weight: lighter;
+}
+
+td{
+  font-size: 80%;
+}
+
+.edu{
+  padding: 3% 0 2% 0;
+}
+.ach{
+  padding: 3% 0 2% 0;
+}
+.achievements{
+  text-align: left;
+}
+
+.slideimg{
+  width: 30%;
+}
+
+
+
+
+
+#footer{
+  padding: 3% 0;
+  background-color: #77E4D4;
+}
+
+.fawesome{
+  margin: 2%;
+}
+.copyrighttag{
+  margin-top: 2%;
+}
